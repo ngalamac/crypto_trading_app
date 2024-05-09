@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  type: 
+  timestamp: 2024-05-09 07:03:03
+
+two:
+  user: two
+  type: 
+  timestamp: 2024-05-09 07:03:03

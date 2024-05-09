@@ -1,0 +1,2 @@
+class TotalBalanceDisplaysController < ApplicationController
+end
